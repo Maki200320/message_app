@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12897036258",
+    "project_id": "messaging-e6904",
+    "storage_bucket": "messaging-e6904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12897036258:android:19d57fb0c6689fc3e6fbbb",
+        "android_client_info": {
+          "package_name": "com.mess.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQbHopob5InZgYwLyxSBDffIjvagSa0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
